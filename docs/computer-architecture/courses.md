@@ -1,0 +1,1 @@
+- [] [**Build a Modern Computer from First Principles**](https://www.coursera.org/learn/build-a-computer) (N Nisan, S Schocken) _"Nand2Tetris"_

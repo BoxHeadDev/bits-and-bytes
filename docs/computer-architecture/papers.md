@@ -1,0 +1,3 @@
+- [ ] [I/O Is Faster Than the CPU](https://penberg.org/parakernel-hotos19.pdf) (P Enberg, A Rao, S Tarkoma 2019)
+- [ ] [Procedure Call Standard for the ARM 64-bit Architecture](https://c9x.me/compile/bib/abi-arm64.pdf)
+- [ ] [System V Application Binary Interface (AMD64 Architecture Processor Supplement)](https://c9x.me/compile/bib/abi-x64.pdf) (M Matz, J Hubicka, A Jaeger, M Mitchell 2013)
