@@ -46,6 +46,17 @@ Whether you're just starting your CS journey or brushing up on advanced topics, 
 
 ---
 
+## Content Types
+
+- [ ] 📖 [Books]() 
+- [ ] 📄 [Papers]()
+- [ ] 💻 [Blog]()
+- [ ] 🏫 [Course]()
+- [ ] 🎥 [Video]()
+- [ ] 🔗 [Link]
+
+---
+
 ## 🧩 Contributions
 
 Want to share an amazing resource? Contributions are welcome!
