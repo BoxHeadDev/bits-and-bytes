@@ -9,7 +9,18 @@
 - [ ] 📖 [**Structure and Interpretation of Computer Programs**](https://mitpress.mit.edu/sites/default/files/sicp/index.html) (H Abelson, GJ Sussman 1984) _The Wizard Book_
 - [ ] 📄 [A New C Compiler](https://c9x.me/compile/bib/new-c.pdf) (K Thompson 1990)
 - [ ] 📄 [Linear Scan Register Allocation](https://c9x.me/compile/bib/linearscan.pdf)  (M Poletto, V Sarkar 1999)
-- [ ]  📄 [Crafting interpreters](https://craftinginterpreters.com/) (Robert Nystrom)
+- [ ] 📄 [Crafting interpreters](https://craftinginterpreters.com/) (Robert Nystrom)
+- [ ]    [Writing an Interpreter in Go]() (Thorsten Bell)
+- [ ]    [Writing a Compiler in Go]() (Thorsten Bell)
+- [ ]    [Advanced Compiler Design and Implementation]() (Steven Muchnick)
+- [ ]    [Engineering a Compiler]() (Keith D. Cooper and Linda Torczon)
+
+## Languages
+
+- [ ] [Programming Languages, Part A](Programming Languages, Part A) (Dan Grossman)
+- [ ] [Programming Language Pragmatics]() (Michael L. Scott)
+- [ ] [Languages and Machines: An Introduction to the Theory of Computer Science]() (Thomas A. Sudkamp)
+- [ ] [Seven Languages in Seven Weeks]() ()
 
 ## Parsers
 

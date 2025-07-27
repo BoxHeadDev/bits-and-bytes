@@ -6,6 +6,7 @@ Blogs:
 - [Chaos Tools and Techniques for Testing the TiDB Distributed NewSQL Database](https://dzone.com/articles/chaos-tools-and-techniques-for-testing-the-tidb-di-1), thanks to [Liu Tang](https://dzone.com/users/3186309/siddontang.html)
 - [Creating Custom Sysbench Scripts](https://www.percona.com/blog/2019/04/25/creating-custom-sysbench-scripts/), thanks to [Matthew Boehm](https://www.percona.com/blog/author/matthew-boehm/)
 
+- [The argument against clearing the database between tests](https://calpaterson.com/against-database-teardown.html) (Cal Paterson)
 
 Papers:
 
