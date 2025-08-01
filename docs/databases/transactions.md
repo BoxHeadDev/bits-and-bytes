@@ -61,3 +61,27 @@ Papers:
 - 2017, [An Empirical Evaluation of In-Memory Multi-Version Concurrency Control](http://www.vldb.org/pvldb/vol10/p781-Wu.pdf), VLDB
 - 2017, [An Evaluation of Distributed Concurrency Control](https://www.vldb.org/pvldb/vol10/p553-harding.pdf), VLDB
 - 2019, [Scalable Garbage Collection for In-Memory MVCC Systems](https://db.in.tum.de/~boettcher/p128-boettcher.pdf), VLDB
+
+
+Distributed Transactions:
+Reading Materials
+- Database Internals: 5. Transaction Processing and Recovery
+- Database Internals: 13. Distributed Transactions
+
+ACID
+- https://en.wikipedia.org/wiki/ACID
+
+Isolation (Optional)
+- https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf
+- https://www.jianshu.com/p/3673e612cce2 (Chinese)
+
+Spanner (Optional)
+- https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf
+- https://www.jianshu.com/p/f307bd2023f5 (Chinese)
+
+Percolator
+- https://tikv.org/docs/deep-dive/distributed-transaction/percolator/
+- https://tikv.org/docs/deep-dive/distributed-transaction/optimized-percolator/
+
+
+

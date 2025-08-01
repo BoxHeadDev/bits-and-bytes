@@ -97,3 +97,36 @@ Papers:
 - 2020, [The PGM-index: a fully-dynamic compressed learned index with provable worst-case bounds](http://www.vldb.org/pvldb/vol13/p1162-ferragina.pdf), [Source Code](https://github.com/gvinciguerra/PGM-index), VLDB
 - 2020, [From WiscKey to Bourbon: A Learned Index for Log-Structured Merge Trees](http://pages.cs.wisc.edu/~yifann/bourbon-osdi20.pdf)
 
+
+
+B-Tree (Optional):
+Reading Materials
+- Database Internals: 2. B-Tree Basics
+- Database Internals: 3. File Formats
+- Database Internals: 4. Implementing B-Trees
+Reference
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+- https://github.com/etcd-io/bbolt
+
+LSM-Tree:
+Reading Materials
+- Database Internals: 7. Log-Structured Storage
+Reference
+- https://github.com/google/leveldb
+- https://github.com/facebook/rocksdb
+- https://github.com/syndtr/goleveldb
+
+B-Tree vs LSM-tree
+- https://tikv.org/docs/deep-dive/key-value-engine/b-tree-vs-lsm/
+
+LSM-Tree Evolution
+Wisckey
+- https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf
+HashKV (Optional)
+- https://www.usenix.org/system/files/conference/atc18/atc18-chan.pdf
+Monkey (Optional)
+- https://stratos.seas.harvard.edu/files/stratos/files/monkeykeyvaluestore.pdf
+Reference
+- https://github.com/dgraph-io/badger
+- https://github.com/tikv/titan
+
